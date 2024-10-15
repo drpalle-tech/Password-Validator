@@ -1,5 +1,7 @@
 # Simple password validator React website
 
+uses the password validator package of npm.
+
 Allows the users to enter a password and checs for its strength.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
